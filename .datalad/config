@@ -1,2 +1,5 @@
 [datalad "dataset"]
 	id = 7d544812-46dc-4a13-acce-96259dc83c37
+[datalad "containers.nilearn"]
+	image = .datalad/environments/nilearn/image
+	cmdexec = singularity exec {img} {cmd}
