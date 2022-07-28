@@ -1,0 +1,5 @@
+[submodule "input"]
+	path = input
+	url = https://gin.g-node.org/adswa/bids-data
+	datalad-id = 68bdb3f3-eafa-4a48-bddd-31e94e8b8242
+	datalad-url = https://gin.g-node.org/adswa/bids-data
